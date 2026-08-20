@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 20)
 #        src/Exer02_SelectionSortDescending.cpp
 #        src/Exer03_SelectionSortKSwaps.cpp
 #        src/Exer04_InsertionSortShiftCount.cpp
-#        src/Exer05_InsertionSortDescendingTail.cpp) 
+#        src/Exer05_InsertionSortDescendingTail.cpp)
 
 # Cada arquivo .cpp com sua própria função main ganha seu próprio executável independente:
 add_executable(Exer01_BubbleSortString src/Exer01_BubbleSortString.cpp
