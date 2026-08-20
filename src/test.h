@@ -1,0 +1,13 @@
+//
+// Created by pedro on 19/08/2026.
+//
+
+#ifndef ED2_ELEMENTARY_SORTING_LIST01_CPP_TEST_H
+#define ED2_ELEMENTARY_SORTING_LIST01_CPP_TEST_H
+
+
+class test {
+};
+
+
+#endif //ED2_ELEMENTARY_SORTING_LIST01_CPP_TEST_H
